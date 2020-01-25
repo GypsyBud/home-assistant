@@ -603,7 +603,7 @@ ha-philipsjs==0.0.8
 haanna==0.10.1
 
 # homeassistant.components.habitica
-habitipy==0.2.0
+habitipy==0.3.0
 
 # homeassistant.components.hangouts
 hangups==0.4.9
