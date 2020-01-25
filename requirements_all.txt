@@ -1938,7 +1938,7 @@ vsure==1.5.2
 vtjp==0.1.14
 
 # homeassistant.components.vultr
-vultr==0.1.2
+vultr==1.0.1
 
 # homeassistant.components.panasonic_viera
 # homeassistant.components.samsungtv
